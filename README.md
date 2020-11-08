@@ -1,2 +1,2 @@
 # daily-bad-kids-jokes
-Sends a daily bad kids joke from the BadKidsJokes tumblr blog.
+Texts a daily joke from the badkidsjokes tumblr blog.
